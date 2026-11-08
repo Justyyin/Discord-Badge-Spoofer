@@ -1,7 +1,7 @@
 # Source / Quelle
 
 Original author / Originalautor: **nvckai**  
-Original Gist: https://gist.github.com/nvckai/b258c253fa00e4300888f5cb13a905b5  
+Original Gist: <https://gist.github.com/nvckai/b258c253fa00e4300888f5cb13a905b5>  
 Original file: `gametime-badge.md`  
 Reviewed for these instructions: **2026-11-08**.
 

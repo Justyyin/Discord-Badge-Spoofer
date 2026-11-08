@@ -1,8 +1,8 @@
 # Discord Game Time Badge Spoofer — English Guide
 
-[**🇩🇪 Deutsch**](README_DE.md) · [**🇬🇧 English**](README_EN.md) · [**↗ Original Gist by nvckai**](https://gist.github.com/nvckai/b258c253fa00e4300888f5cb13a905b5)
+[**⬅ Overview**](README.md) · [**🇩🇪 Deutsch**](README_DE.md) · [**🇬🇧 English**](README_EN.md) · [**↗ Original Gist by nvckai**](https://gist.github.com/nvckai/b258c253fa00e4300888f5cb13a905b5)
 
-![MacBook showing a conceptual Discord interface](assets/images/macbook-discord-en.png)
+![MacBook showing a conceptual Discord interface](assets/images/macbook-discord-en.jpg)
 
 > **About the image:** This is a **generated concept photo**, not a real screenshot. The Game Time tile is illustrative and **not a user interface supplied by the script**.
 

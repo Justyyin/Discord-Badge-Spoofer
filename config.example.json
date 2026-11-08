@@ -1,0 +1,9 @@
+{
+  "_notice": "Documentation sample only. The original snippet does not read this JSON file. Edit the const config block inside the source snippet instead.",
+  "totalHours": 120,
+  "titles": 10,
+  "batchSize": 5,
+  "delay": 450,
+  "wobble": false,
+  "dryRun": true
+}
