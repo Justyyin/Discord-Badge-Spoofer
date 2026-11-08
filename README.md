@@ -1,6 +1,9 @@
 # Discord Game Time Badge Spoofer · Deutsch / English
 
-**🇩🇪 [Zur deutschen Anleitung](#deutsch)** · **🇬🇧 [Jump to English guide](#english)** · **[Original source / Originalquelle](https://gist.github.com/nvckai/b258c253fa00e4300888f5cb13a905b5)**
+**🇩🇪 [Zur deutschen Anleitung](#deutsch)** ·
+**🇬🇧 [Jump to English guide](#english)** · 
+
+**[Original source / Originalquelle](https://gist.github.com/nvckai/b258c253fa00e4300888f5cb13a905b5)**
 
 ![MacBook showing an illustrative Discord interface](assets/images/macbook-discord-de.png)
 
